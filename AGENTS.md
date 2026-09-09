@@ -1,3 +1,5 @@
+# AI Agent Instructions — ATC Launchpad
+
 ## Org-Regeln (vererbt — Pflicht für jeden Agenten in diesem Repo)
 
 Dieses Repository unterliegt dem **ATC Org-weiten Agent-Governance-System** (SCR-0057):
@@ -20,8 +22,6 @@ version: 1.0.0
 created: 2026-09-08
 updated: 2026-09-08
 ---
-
-# AI Agent Instructions — ATC Launchpad
 
 ## Identity & Mandat
 Dieses Repository gehört zum A-TownChain-Ökosystem (Layer L5) und folgt strikt den normativen Standards `ATC-STD-README-001` und `ATC-STD-MD-001`.
