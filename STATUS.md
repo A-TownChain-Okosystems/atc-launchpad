@@ -16,8 +16,8 @@ updated: 2026-09-08
 | Repository | atc-launchpad |
 | Version | 0.1.0 |
 | Status | development |
-| Build | NOT APPLICABLE — keine ausführbare Implementierung (SCR-0069, ehrlicher Status) |
-| Tests | NOT RUN — keine Implementierung (SCR-0069, No status without evidence) |
+| Build | PASS (cargo, MVP-Kern Sale-Accounting, CI-gruen SCR-0083) |
+| Tests | PASS WITH EVIDENCE (cargo test gruen, bound_commit+test_run, SCR-0083) |
 | Security | S1 (ATC-STD-203) |
 | Documentation | ATC-STD-README-001 / ATC-STD-MD-001 |
 | Last Audit | 2026-09-08 |
