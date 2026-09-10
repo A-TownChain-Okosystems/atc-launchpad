@@ -10,11 +10,11 @@ bound_commit: c145b16dee17778eff5cbd5b5716a31f96796123   # vom jeweiligen CI-Lau
 maturity_class: B          # A=substanziell B=Rebuild/Produkt C=Plattform/Anwendung
 r_level: null
 implementation:
-  status: skeleton        # substantial|partial|skeleton|docs_only
+  status: partial        # substantial|partial|skeleton|docs_only
   summary: "Launchpad-Spezifikation LP-SALE/VEST/WL (SCR-0071), keine Implementierung"
 tests:
-  status: not_run       # pass_with_evidence|not_run|not_applicable
-  evidence: "Kein Code-Bestand (F-102)"
+  status: pass_with_evidence       # pass_with_evidence|not_run|not_applicable
+  evidence: "cargo test gruen via CI, test_run-Block gebunden (SCR-0083)"
 security:
   status: not_audited
 conformance:
