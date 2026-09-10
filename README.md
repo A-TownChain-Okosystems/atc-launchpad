@@ -1,5 +1,8 @@
 # ATC Launchpad
 
+> **ATC COMPLIANCE: R1** — auditiert am 2026-09-10 (SCR-0075; R-Level aus `.atc/repository.yaml`).
+
+
 > Launchpad für Token- und NFT-Releases auf der A-TownChain.
 
 **Project:** atc-launchpad
