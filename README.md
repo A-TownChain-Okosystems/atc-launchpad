@@ -140,7 +140,7 @@ Security issues **must NOT** be disclosed publicly via GitHub Issues. Security v
 
 ## Governance
 
-Dieses Repository folgt dem A-TownChain Enterprise Governance Framework (ATC-STD-000 v1.2.0):
+Dieses Repository folgt dem A-TownChain Enterprise Governance Framework (ATC-STD-000 v1.3.0):
 - Architekturentscheidungen werden im zentralen `DECISIONS_REGISTER` (AD-024, AD-026) gepflegt.
 - Sicherheits- und konsensusrelevante Änderungen erfordern ein formelles Review und Owner-Freigabe (§9).
 
@@ -148,12 +148,12 @@ Dieses Repository folgt dem A-TownChain Enterprise Governance Framework (ATC-STD
 
 | Standard | Version | Compliance |
 |---|---:|---|
-| ATC-STD-000 | 1.2.0 | ✅ APPROVED |
+| ATC-STD-000 | 1.3.0 | ✅ APPROVED |
 | ATC-STD-README-001 | 1.0.0 | ✅ APPROVED |
 | ATC-STD-MD-001 | 1.0.0 | ✅ APPROVED |
-| ATC-STD-201 | 1.0.0 | ✅ APPROVED |
-| ATC-STD-202 | 1.1.0 | ✅ APPROVED |
-| ATC-STD-203 | 1.0.0 | ✅ APPROVED |
+| ATC-STD-201 | 1.0.1 | ✅ APPROVED |
+| ATC-STD-202 | 1.2.0 | ✅ APPROVED |
+| ATC-STD-203 | 1.0.1 | ✅ APPROVED |
 
 ## Roadmap
 
