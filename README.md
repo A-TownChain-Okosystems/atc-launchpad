@@ -1,6 +1,6 @@
 # ATC Launchpad
 
-> **ATC COMPLIANCE: R1** — auditiert am 2026-09-10 (SCR-0075; R-Level aus `.atc/repository.yaml`).
+> **Historical governance snapshot:** R1 was recorded in an audit on 2026-09-10 (SCR-0075). This historical label is not current production-readiness or exact-SHA verification; consult `STATUS.md` and current evidence.
 
 
 > Launchpad für Token- und NFT-Releases auf der A-TownChain.
